@@ -1,6 +1,6 @@
 # How to Insert a Chart in the React Spreadsheet Component 
 
-A quick-start project that helps you insert a chart in the Syncfusion React Spreadsheet component. In this project, a chart has been inserted in a specific cell position by using the chart property. This project also contains code to insert a chart by using the insertChart method. To enable or disable this feature, use the allowChart property in the Spreadsheet component. You can change the height and width of the chart by resizing it and move it to another position by dragging and dropping it.
+A quick-start project that helps you insert a chart in the [React Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/react-spreadsheet-editor) component. In this project, a chart has been inserted in a specific cell position by using the chart property. This project also contains code to insert a chart by using the insertChart method. To enable or disable this feature, use the allowChart property in the Spreadsheet component. You can change the height and width of the chart by resizing it and move it to another position by dragging and dropping it.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/spreadsheet/illustrations/#chart
 
